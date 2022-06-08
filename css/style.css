@@ -31,7 +31,7 @@ p {
 
 ul {
     list-style: none;
-    color: palevioletred;
+    color: skyblue;
 }
 
 body {
@@ -43,5 +43,5 @@ body {
 }
 
 .pinkcolor {
-    color: magenta;
+    color: skyblue;
 }
